@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0b73889bdd17cb548acf61bbaf7b1338
+timeCreated: 1493774757
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PacFont
+  fontNames:
+  - PacFont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
